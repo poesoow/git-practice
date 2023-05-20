@@ -1,1 +1,2 @@
 git switch -c testA
+겹치는 상황 로컬에서 작업

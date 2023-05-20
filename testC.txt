@@ -2,3 +2,8 @@
 
 원격에는 testA, testB 파일존재 로컬에는 없음
 로컬에는 testC 있음 원격에는 없음
+
+파일이 안겹치니깐
+git pull 한다음 push 하니까 됨
+
+testA에서 겹치는 상황 만들어보기
