@@ -1,4 +1,8 @@
 textB
 파일
 
+
+브랜치B에서 작업
+
 branchTestA에서 작업
+

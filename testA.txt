@@ -1,3 +1,9 @@
+
+git switch -c testC
+
+git switch -c testB
+
 git switch -c branchTestA
+
 겹치는 상황 로컬에서 작업
 원격에서 저장
