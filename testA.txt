@@ -1,4 +1,6 @@
 
+git switch -c testC
+
 git switch -c testB
 
 git switch -c branchTestA
